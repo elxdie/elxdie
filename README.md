@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Elodie</h1>
 <h3 align="center">A passionate full-stack developer from Mauritius Island 🏝</h3>
 
+<h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **C++**
+  
+- 👩‍🎓 Currently studying **Computer Science** at the Universiry of Mauritius
 
 - ⚡ Fun fact: **I went to Le Wagon ( A 9 week full-time intensive coding bootcamp)**
 
 - 📫 How to reach me: **elodiemegane012@gmail.com**
+
+  <img alt="Night Coding" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" align="right" width='400px' />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
