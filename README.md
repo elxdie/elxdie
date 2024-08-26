@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** & **Java**
   
 - 👩‍🎓 Currently studying **Computer Science** at the Universiry of Mauritius
 
